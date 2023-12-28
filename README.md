@@ -80,8 +80,4 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=EllieT7.EllieT7&"  />
 </div>
 
-###
 
-<img src="https://raw.githubusercontent.com/EllieT7/EllieT7/output/snake.svg" alt="Snake animation" />
-
-###
