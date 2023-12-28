@@ -1,12 +1,23 @@
 
 
-<h1 align="left">Hi! <img src="https://media.tenor.com/QTc7sR9KDNYAAAAi/cherry-hi.gif" width="40"/> My name is Elizabeth 😊</h1>
+<h1 align="left">Hi! <img src="https://media.tenor.com/QTc7sR9KDNYAAAAi/cherry-hi.gif" width="40"/> My name is Elizabeth 😊<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=EllieT7.EllieT7&"  /></h1>
 
+I love working on website projects! I'm great at making them look awesome and easy to use through UI and UX design. I'm also skilled in backend development💞
 
-## 🎀𝑨𝒃𝒐𝒖𝒕 𝒎𝒆
+<p>
+<br>
+Feel free to explore my repositories, and don't hesitate to reach out — I'm always up for a chat or collaboration!
+</p>
+
+<br>
+
+<h2 align="center"> 🎀 𝑨𝒃𝒐𝒖𝒕 𝒎𝒆</h2>
+
+<img align="right" src="https://i.pinimg.com/originals/3a/e7/92/3ae792706e97941696b70b4763bd2963.gif" alt="Kirby Gif" width="300">
+
 - 📚 I'm currently in my final year studying Systems Engineering 🐱‍💻
-- 🌱 Currently learning: React and AWS
-- ⭐ I'm enthusiastic about collaborating on frontend projects, and I also bring a strong skill set in backend development.
+- 🌱 Currently learning: React, AWS and Python
+- ⭐ I'm enthusiastic about collaborating on frontend projects.
 - 💌 How to reach me: elizabeth.tacachira@gmail.com
 - 💚 Love: 🎵 Music, 🍜 Exploring anime
 - 🎈 Hobbies: 🏐 Playing volleyball, 🎮 Gaming, 💻 Web development
@@ -14,22 +25,25 @@
 
 
 
+<br>
+<br>
+
+<h2 align="center"> 🛠 𝑻𝒆𝒄𝒉𝒏𝒐𝒍𝒐𝒈𝒊𝒆𝒔 & 𝑻𝒐𝒐𝒍𝒔 </h2>
+
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=angular,html,css,figma,nodejs,docker,java,kotlin,spring,javascript,postgres,wordpress" />
+    <img src="https://skillicons.dev/icons?i=cpp,typescript,flutter,dart,mysql,nginx,bootstrap" /><br>
+</div>
 
 <br>
 
-<div align="center">
- <a href="https://discord.com/users/537057842033852427"><img src="https://lanyard.kyrie25.me/api/537057842033852427" height="150" alt="discord state" /></a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EllieT7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-  <img height="150" src="https://i.pinimg.com/originals/3a/e7/92/3ae792706e97941696b70b4763bd2963.gif"  />
-</div>
-
-###
-
-## 🛠 𝑻𝒆𝒄𝒉𝒏𝒐𝒍𝒐𝒈𝒊𝒆𝒔 & 𝑻𝒐𝒐𝒍𝒔
+<details>
+<summary>See more...</summary>
+ 
 ```javascript
 const nao = {
     pronouns: "She" | "Her",
-    code: ["Javascript", "Python", "Java", "Kotlin", "C++", "Typescript"],
+    code: ["Javascript", "Java", "Kotlin", "C++", "Typescript"],
     askMeAbout: ["web dev", "tech", "design", "music", "anime"],
     technologies: {
         frontend: {
@@ -43,79 +57,37 @@ const nao = {
             java_kotlin: ["Spring Boot"]
         },
         mobileApp: {
-            native: ["Android Development"]
+            native: ["Android Development"],
+            crossPlatform: ["Dart", "Flutter"]
         },
         devOps: ["Docker🐳", "Nginx"],
         databases: ["PostgreSQL", "MySql", "sqlite"],
+        misc: ["Figma", "WordPress"],
     },
     architecture: ["Microservices Architecture", "Single page applications"],
 };
 ```
 
-###
+</details>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="30" alt="nginx logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="30" alt="jira logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-</div>
+<br>
+<br>
 
-###
-
-<div align="left">
-  <a href="https://www.instagram.com/elliet7_" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/EllieT7/EllieT7/output/snake.svg" alt="Snake animation" />
-
-###
-
+<h2 align="center">🔮 𝑴𝒚 𝑺𝒕𝒂𝒕𝒔</h2>
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=EllieT7.EllieT7&"  />
+  <a href="https://discord.com/users/537057842033852427"><img src="https://lanyard.kyrie25.me/api/537057842033852427" height="150" alt="discord state" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EllieT7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=EllieT7&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+<div align="center">
+<img src="https://raw.githubusercontent.com/EllieT7/EllieT7/output/snake.svg" alt="Snake animation" />
 </div>
 
+<br>
 
+<h2 align="center">💌 𝑪𝒐𝒏𝒕𝒂𝒄𝒕 𝑴𝒆</h2>
+<div align="center">
+  <a href="https://www.instagram.com/elliet7_" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  /></a>
+  <a href="https://discord.com/users/537057842033852427" target="_blank"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5865F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Discord logo"  /></a>
+  <a href="mailto:elizabeth.tacachira@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" /></a>
+</div>
