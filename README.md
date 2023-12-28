@@ -1,10 +1,23 @@
 
-<h2 align="left">Hi 👋! My name is Naomi</h2>
 
-###
- <!---[![Discord Presence](https://lanyard.kyrie25.me/api/537057842033852427)](https://discord.com/users/537057842033852427)
+<h1 align="left">Hi! <img src="https://media.tenor.com/QTc7sR9KDNYAAAAi/cherry-hi.gif" width="40"/> My name is Elizabeth 😊</h1>
+
+
+## 🎀𝑨𝒃𝒐𝒖𝒕 𝒎𝒆
+- 📚 I'm currently in my final year studying Systems Engineering 🐱‍💻
+- 🌱 Currently learning: React and AWS
+- ⭐ I'm enthusiastic about collaborating on frontend projects, and I also bring a strong skill set in backend development.
+- 💌 How to reach me: elizabeth.tacachira@gmail.com
+- 💚 Love: 🎵 Music, 🍜 Exploring anime
+- 🎈 Hobbies: 🏐 Playing volleyball, 🎮 Gaming, 💻 Web development
+
+
+
+
+
+<br>
+
 <div align="center">
- <!---<img src="https://github-readme-stats.vercel.app/api?username=EllieT7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  /> -->
  <a href="https://discord.com/users/537057842033852427"><img src="https://lanyard.kyrie25.me/api/537057842033852427" height="150" alt="discord state" /></a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EllieT7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
   <img height="150" src="https://i.pinimg.com/originals/3a/e7/92/3ae792706e97941696b70b4763bd2963.gif"  />
@@ -12,7 +25,32 @@
 
 ###
 
-
+## 🛠 𝑻𝒆𝒄𝒉𝒏𝒐𝒍𝒐𝒈𝒊𝒆𝒔 & 𝑻𝒐𝒐𝒍𝒔
+```javascript
+const nao = {
+    pronouns: "She" | "Her",
+    code: ["Javascript", "Python", "Java", "Kotlin", "C++", "Typescript"],
+    askMeAbout: ["web dev", "tech", "design", "music", "anime"],
+    technologies: {
+        frontend: {
+            framework: ["Angular"],
+            uiLibraries: ["Material", "PrimeNG"],
+            css: ["Bootstrap", "PrimeFlex"],
+            markup: ["HTML5"],
+        },
+        backEnd: {
+            js: ["Node"],
+            java_kotlin: ["Spring Boot"]
+        },
+        mobileApp: {
+            native: ["Android Development"]
+        },
+        devOps: ["Docker🐳", "Nginx"],
+        databases: ["PostgreSQL", "MySql", "sqlite"],
+    },
+    architecture: ["Microservices Architecture", "Single page applications"],
+};
+```
 
 ###
 
