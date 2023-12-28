@@ -13,7 +13,7 @@ Feel free to explore my repositories, and don't hesitate to reach out — I'm al
 
 <h2 align="center"> 🎀 𝑨𝒃𝒐𝒖𝒕 𝒎𝒆</h2>
 
-<img align="right" src="https://i.pinimg.com/originals/3a/e7/92/3ae792706e97941696b70b4763bd2963.gif" alt="Kirby Gif" width="300">
+<img align="right" src="https://i.pinimg.com/originals/3a/e7/92/3ae792706e97941696b70b4763bd2963.gif" alt="Kirby Gif" width="250">
 
 - 📚 I'm currently in my final year studying Systems Engineering 🐱‍💻
 - 🌱 Currently learning: React, AWS and Python
