@@ -75,7 +75,7 @@ const nao = {
 
 <h2 align="center">🔮 𝑴𝒚 𝑺𝒕𝒂𝒕𝒔</h2>
 <div align="center">
-  <a href="https://discord.com/users/537057842033852427"><img src="https://lanyard.kyrie25.me/api/537057842033852427?bg=282A36" height="150" alt="discord state" /></a>
+  <a href="https://discord.com/users/537057842033852427"><img src="https://lanyard.kyrie25.dev/api/537057842033852427?bg=282A36" height="150" alt="discord state" /></a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EllieT7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=EllieT7&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
